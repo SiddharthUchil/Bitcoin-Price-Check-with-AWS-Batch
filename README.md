@@ -1,6 +1,10 @@
 Bitcoin Price Check with AWS Batch
 =================================
 
+
+https://github.com/SiddharthUchil/Bitcoin-Price-Check-with-AWS-Batch/assets/36127139/dc5fa889-3034-4031-9b8e-4437c153c7dd
+
+
 This project demonstrates the use of AWS Batch to run a Docker application that fetches the current price of Bitcoin. The project includes the following steps:
 
 1. Setting up the AWS Batch environment
